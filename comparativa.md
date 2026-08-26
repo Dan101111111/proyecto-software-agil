@@ -25,7 +25,7 @@
 
 ### Caso 3: Software médico regulado
 - **Metodología recomendada:** Metodología Tradicional.
-- **Justificación:** El desarrollo de software para el ámbito de la salud exige un cumplimiento estricto de normativas gubernamentales, auditorías y altos estándares de calidad (ej. FDA). Este tipo de entorno altamente regulado requiere documentación exhaustiva obligatoria, trazabilidad total desde el requisito hasta la prueba, y validaciones de seguridad rigurosas antes de cualquier lanzamiento. La estructura rígida de la metodología tradicional garantiza el cumplimiento de estos controles críticos.
+- **Justificación:** El desarrollo de software para el ámbito de la salud exige un cumplimiento estricto de normativas sanitarias, auditorías y requisitos de seguridad. Este tipo de entorno altamente regulado requiere documentación exhaustiva obligatoria, trazabilidad total desde el requisito hasta la prueba, y validaciones de seguridad rigurosas antes de cualquier lanzamiento. La estructura rígida de la metodología tradicional garantiza el cumplimiento de estos controles críticos.
 
 ## 3. Conclusión de la comparación
 

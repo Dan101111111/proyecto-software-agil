@@ -37,7 +37,7 @@ Para soportar esta arquitectura de forma organizada y modular, el repositorio se
 
 ## 5. ¿Por qué esta arquitectura se beneficia de un enfoque ágil?
 
-La elección de una arquitectura desacoplada (Frontend / Backend / Base de Datos) es ideal para implementarse mediante metodologías ágiles por las siguientes razones:
+La elección de una arquitectura desacoplada (Frontend / Backend / Base de Datos) resulta favorable para trabajar mediante enfoques ágiles por las siguientes razones:
 
 *   **Desarrollo incremental:** Al no ser un bloque monolítico rígido, el equipo puede construir pequeñas partes operativas de cada componente. Por ejemplo, programar solo un controlador básico en FastAPI y su contraparte en Next.js, sin requerir diseñar el sistema completo por adelantado.
 *   **Desarrollo de funcionalidades por iteraciones:** Permite a los equipos trabajar en historias de usuario completas que atraviesan todas las capas. En un solo "sprint" o iteración, el equipo entrega la funcionalidad de "Ver carrito de compras" funcionando desde Next.js hasta PostgreSQL.
